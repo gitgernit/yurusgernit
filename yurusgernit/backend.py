@@ -1,2 +1,3 @@
 print("Hello, github!")
-print("я люблю порно")
+print("УДАЛЕНО!!!")
+print("юра тупой")
